@@ -1,0 +1,11 @@
+body{
+    text-align: center;
+    background-color: cornflowerblue;
+}
+.menu1{
+    float:left;
+    padding: 5px;
+}
+.menu{
+    list-style: none;
+}
